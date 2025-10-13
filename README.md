@@ -9,9 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,html,css,bash,aws,firebase,npm,nodejs,jenkins,mongodb,figma,bitbucket,git,github,postman,sentry,vscode&perline=10)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pixieducky&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pixieducky&theme=slateorange&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pixieducky&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixieducky&theme=slateorange&show_icons=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
