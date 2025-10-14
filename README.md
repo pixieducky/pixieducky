@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duckju-hoffman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djkimhoffman@googlemail.com) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/duckju-hoffman) [![email](https://skillicons.dev/icons?i=gmail)](mailto:djkimhoffman@googlemail.com) 
 
 ## 💻 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=swift,html,css,bash,aws,firebase,npm,nodejs,jenkins,mongodb,figma,bitbucket,git,github,postman,sentry,vscode&perline=10)](https://skillicons.dev)
