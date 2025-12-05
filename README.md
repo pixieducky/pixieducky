@@ -17,12 +17,8 @@
 - Other: Git, Figma, Canva, Basic UI/UX from design background
 
 
-## 📊 GitHub Stats:
-![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixieducky&theme=slateorange&show_icons=true)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### 📊 GitHub Stats:
+[![Ducky's GitHub Streak](https://github-readme-stats.demolab.com/?username=pixieducky&theme=slateorange)](https://git.io/streak-stats)
 
 
  ## :inbox_tray: Let's Connect!
