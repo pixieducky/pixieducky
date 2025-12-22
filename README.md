@@ -2,7 +2,7 @@
 ![Header. Text says "Hello! I am Ducky iOS developer"](./github-header-banner.png)
 
 ## 💫 About Me:
-🔭 I’m working on the "Meal Seeker" iOS app.
+🔭 I’m working on the "Meal Seeker" iOS app.  
 👯 Currently learning Swift and SwiftUI with Xcode.  
 🤝 I have 12+ years of experience in web, iOS, and Android app testing as a QA.  
 ⚡ Fun fact: I used to work as a designer.
