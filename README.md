@@ -23,7 +23,7 @@ Postman, Sentry, VS Code
 
 
 ### 📊 GitHub Stats:
-[![Ducky's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/demo/user=pixieducky&theme=calm-pink&short_numbers=true&card_height=190&hide_longest_streak=true)](https://git.io/streak-stats)
+[![Ducky's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pixieducky&theme=calm-pink&short_numbers=true&card_height=190&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
  ## :inbox_tray: Let's Connect!
