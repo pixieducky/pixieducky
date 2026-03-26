@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 ![App Demo GIF](screenshots/Snapful-app-video.gif)
-![Link](https://github.com/pixieducky/swift-snapful)
+Link: [Snapful](https://github.com/pixieducky/swift-snapful)
 
 
 ### 🌐 Socials:
