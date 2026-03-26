@@ -7,6 +7,10 @@
 🤝 I have 12+ years of experience in web, iOS, and Android app testing as a QA.  
 ⚡ Fun fact: I used to work as a designer.
 
+## 🚀 Featured Projects
+![App Demo GIF](Snapful-app-video-s.gif)
+
+
 ### 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/duckju-hoffman) [![email](https://skillicons.dev/icons?i=gmail)](mailto:djkimhoffman@googlemail.com) 
 
