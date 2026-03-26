@@ -8,7 +8,7 @@
 ⚡ Fun fact: I used to work as a designer.
 
 ## 🚀 Featured Projects
-![App Demo GIF](Snapful-app-video-s.gif)
+![App Demo GIF](screenshots/Snapful-app-video-s.gif)
 
 
 ### 🌐 Socials:
