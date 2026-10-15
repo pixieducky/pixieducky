@@ -1,16 +1,17 @@
 
-![Header. Text says "Hello! I am Ducky iOS developer"](./github-header-banner.png)
+![Header. Text says "Hello! I am Ducky AI Evaluation Engineer"](./github-header-banner.png)
 
 ## 💫 About Me:
-🔭 I’m working on the "Meal Seeker" iOS app.  
-👯 Currently learning Swift and SwiftUI with Xcode.  
-🤝 I have 12+ years of experience in web, iOS, and Android app testing as a QA.  
-⚡ Fun fact: I used to work as a designer.
+🔭 I’m working on a policy RAG chatbot with hybrid search, human-reviewed evals, and DeepEval checks.<br> 
+👯 12+ years in mobile and web QA, now applying that testing mindset to LLM outputs.<br>
+🤝 Comfortable with Python, FastAPI, and local models (Ollama).<br>
+:iphone: Previously built SwiftUI apps; still open to feedback on the evaluation work.<br>
+⚡ Fun fact: I used to work as a designer.<br> 
 
 ## 🚀 Featured Projects
-![App Demo GIF](screenshots/Snapful-app-video.gif)
+![Demo GIF](screenshots/chat-idk.gif)
 
-- Link: [Snapful](https://github.com/pixieducky/swift-snapful)
+- Link: [Policy RAG Chat and Evaluation](https://github.com/pixieducky/policy-rag-eval)
 
 
 ### 🌐 Socials:
@@ -18,22 +19,22 @@
 
 
 ## 💻 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=swift,html,css,bash,firebase,npm,jenkins,mongodb,figma,git,github,postman,sentry,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git,github,postman,vscode&perline=10)](https://skillicons.dev)
 
-:small_orange_diamond: HTML, CSS, Bash, Firebase, npm, Jenkins, MongoDB, Figma, Git, Github,
-Postman, Sentry, VS Code
+:small_orange_diamond: Python, FastAPI, Pydantic, RAG(Chroma + hybrid search), LangChain, DeepEval, Ollama
 
-- iOS Dev: Swift, SwiftUI, Xcode, Networking (REST APIs), SwiftData/Core Data   
-- QA Transferables: Swift testing/XCTest unit/integration testing, Agile/Scrum, Bug tracking (e.g., Jira)  
-- Other: Git, Figma, Canva, Basic UI/UX from design background
 
+- QA: Test design, edge-case analysis, human evaluation, defect documentation   
+- Tools: Git/GitHub, Postman, VS Code, JIRA, TestRail
+- Other: Swift/SwiftUI (side projects), PostgreSQL
+  
 
 ### 📊 GitHub Stats:
 [![Ducky's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pixieducky&theme=calm-pink&short_numbers=true&card_height=190&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
  ## :inbox_tray: Let's Connect!
- Open to Junior iOS developer roles in the UK. Please feel free to reach out via Email or LinkedIn for a chat or Swift projects.
+ Open to AI QA / LLM Evaluation roles (UK or remote). Happy to share the evaluation report or walk through the RAG project.
 
 
  ![](https://komarev.com/ghpvc/?username=pixieducky&color=yellowgreen&stylle=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
