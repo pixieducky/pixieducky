@@ -1,5 +1,5 @@
 
-![Header. Text says "Hello! I am Ducky AI Evaluation Engineer"](./github-header-banner.png)
+![Header. Text says "Hello! I am Ducky AI Evaluation Engineer"](./mygithub-header-banner.png)
 
 ## 💫 About Me:
 🔭 I’m working on a policy RAG chatbot with hybrid search, human-reviewed evals, and DeepEval checks.<br> 
