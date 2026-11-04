@@ -9,7 +9,12 @@
 ⚡ Fun fact: I used to work as a designer.<br> 
 
 ## 🚀 Featured Projects
-![Demo GIF](screenshots/chat-idk.gif)
+
+### I don't know
+![I don't know, no sources](screenshots/chat-idk.gif)
+
+### LangSmith comparison (llama vs Haiku)
+![Experiment comparison](screenshots/llama_haiku_comparison.jpg)
 
 - Link: [Policy RAG Chat and Evaluation](https://github.com/pixieducky/policy-rag-eval)
 
@@ -21,7 +26,7 @@
 ## 💻 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,git,github,postman,vscode&perline=10)](https://skillicons.dev)
 
-:small_orange_diamond: Python, FastAPI, Pydantic, RAG(Chroma + hybrid search), LangChain, DeepEval, Ollama
+:small_orange_diamond: Python, FastAPI, Pydantic, RAG(Chroma + hybrid search), LangChain, DeepEval, LangSmith, Ollama, Claude 
 
 
 - QA: Test design, edge-case analysis, human evaluation, defect documentation   
